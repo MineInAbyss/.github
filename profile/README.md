@@ -1,3 +1,7 @@
-Welcome to Mine in Abyss, a community recreation of Made in Abyss in Minecraft. We keep all our projects open source in this GitHub organization.
+<div align="center">
 
-Find documentation and contributing info at our wiki: https://wiki.mineinabyss.com/
+[![Discord](https://badgen.net/discord/members/QXPCk2y)](https://discord.gg/QXPCk2y)
+[![Documentation](https://img.shields.io/badge/Documentation-blueviolet?logo=Wikipedia&labelColor=gray)](https://wiki.mineinabyss.com)
+[![Contribute](https://shields.io/badge/Contribute-e57be5?logo=github%20sponsors&style=flat&logoColor=white)](https://wiki.mineinabyss.com/contributing/)
+[![Donate](https://img.shields.io/badge/Donate-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/mineinabyss)
+ 
