@@ -4,4 +4,4 @@
 [![Documentation](https://img.shields.io/badge/Documentation-blueviolet?logo=Wikipedia&labelColor=gray)](https://wiki.mineinabyss.com)
 [![Contribute](https://shields.io/badge/Contribute-e57be5?logo=github%20sponsors&style=flat&logoColor=white)](https://wiki.mineinabyss.com/contributing/)
 [![Donate](https://img.shields.io/badge/Donate-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/mineinabyss)
- 
+[![Report Issue](https://img.shields.io/github/issues/MineInAbyss/Issue-Tracker?color=g&label=report%20issue&logo=github)](https://github.com/MineInAbyss/Issue-Tracker/issues/new/choose)
